@@ -1,0 +1,118 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-JAVA-COMMONSFILEUPLOAD-30401:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-1049003:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30060:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30207:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30770:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30771:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31501:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31502:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31503:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-32477:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30775:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30776:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-30778:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31495:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-31500:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-451610:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-608097:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-608098:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTS-609765:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30798:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30800:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30801:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30802:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30803:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-30804:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-451611:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGAPACHESTRUTSXWORK-474418:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+  SNYK-JAVA-ORGFREEMARKER-1076795:
+    - '*':
+        reason: None Given
+        expires: 2921-04-24T18:04:47.188Z
+
+patch: {}
